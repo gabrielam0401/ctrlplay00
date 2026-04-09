@@ -1,0 +1,20 @@
+import math
+ #importando math
+
+#o módulo 'os' permite interagir com os sistemas operacional
+import os
+import modulo
+
+#p calcular potencia
+print(math.pow(5, 5))
+
+#arredonda p cima
+print(math.celi(4.1))
+
+#arrendonda p baixo
+print(math.floor(4.8))
+
+#arredonda para o inteiro mais prximo
+print(math.trunc(3.2))
+
+print(modulo.soma(5, 10))
